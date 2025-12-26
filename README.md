@@ -1,3 +1,30 @@
+<h1 align="center">🧠 NLP Text Classification & Spam Detection</h1>
+
+<p align="center">
+  Academic project developed in <strong>Python</strong> focused on natural language processing,
+  text representation, supervised classification, and evaluation under class imbalance.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-Text%20Classification-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Models-Naive%20Bayes%20%7C%20SVM%20%7C%20RF-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Features-BoW%20%7C%20TF--IDF-lightgrey?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Evaluation-F1--Macro%20%7C%20Imbalance-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tasks-Spam%20Detection%20%7C%20News%20Classification-blueviolet?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://deepwiki.com/maria2332/nlp-text-classification-and-spam-detection" target="_blank">
+    <img src="https://img.shields.io/badge/DeepWiki-Documentation-purple?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 # 🧠 NLP Text Classification & Spam Detection
 
 Academic project focused on **text classification and spam detection** using classical Natural Language Processing (NLP) techniques and machine learning models in Python.
